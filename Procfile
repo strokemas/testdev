@@ -1,1 +1,1 @@
-worker: node index.js
+worker: python message_reader.py
